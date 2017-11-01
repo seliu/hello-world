@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository.
+This is my first repository, which is intended to try out the system.
