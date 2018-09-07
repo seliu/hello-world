@@ -1,3 +1,6 @@
+#
+# This is my first time implementing a singly linked list. It's always interesting to record the learning progress.
+#
 class MyLinkedList:
     def __init__(self):
         """
